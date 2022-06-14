@@ -24,5 +24,5 @@ This is a straightforward webpage with easy to use navigation. Follow this link 
 ## Features
 
 1. Easy to read code.
-2. somple and effective navigation through the webpage
+2. simple and effective navigation through the webpage
 3. Clean layout and fonts. 
