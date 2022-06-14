@@ -8,8 +8,6 @@ In order to maximize the accessibility for a marketing agency's website, I have 
 Here is a Table of contents to help navigate the README.
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 
 ## Installation
 
